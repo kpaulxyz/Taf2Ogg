@@ -5,7 +5,8 @@ This script extracts chapter information from a Toniebox file, converts it to au
 ## Prerequisites
 
 Ensure you have Python 3 installed on your system.
-FFmpeg must be installed and accessible via the $PATH environment variable.
+
+FFmpeg must be installed and accessible via the `$PATH` environment variable.
 
 ## Installation
 
